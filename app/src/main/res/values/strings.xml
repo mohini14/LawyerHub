@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">LawyerHub</string>
+    <string name="web_client_id">1027245966369-mnovg25o27os56npr9qgi65ups90v4ki.apps.googleusercontent.com</string>
+    <string name="profile_string">Profile</string>
+    <string name="main_activity_toolbar_heading">Lawyer Hub</string>
+    <string name="email_hint">abc@gmail.com</string>
+    <string name="name_hint">Eg : Jane</string>
+    <string name="role_hint">Role</string>
+    <string name="edit_profile_heading">Edit Profile</string>
+    <string name="cancel_button_text">Cancel</string>
+    <string name="select_your_role">Select Role</string>
+    <string name="specialisation_hint">Specialization (Eg : Criminal Law)</string>
+    <string name="city_hint">City</string>
+    <string name="ok_string">OK</string>
+    <string name="user_profile_update_message">User Profile Updated Successfully</string>
+    <string name="check_internet">Check your Internet Connection</string>
+    <string name="fee_hint">Consultation fee</string>
+    <string name="lawyer_details_heading">Lawyer Details</string>
+    <string name="lawyer_details_string">Lawyer Details : "</string>
+    <string name="lawyer_name_string">Name :</string>
+    <string name="lawyer_city_string">City :</string>
+    <string name="lawyer_spec_string">Specialization :</string>
+    <string name="lawyer_fee_string">Consultation Fee :</string>
+    <string name="lawyer_email_string">Email :</string>
+    <string name="book_appointment_string">BOOK APPOINTMENT</string>
+    <string name="time_hint">Select Time</string>
+    <string name="date_hint">Select Date</string>
+    <string name="book_appointment_title_string">Select time and date to book an appointment with</string>
+    <string name="book_appointment_lowercase_string">Book Appointment</string>
+    <string name="yes_option">yes</string>
+    <string name="no_option">no</string>
+    <string name="appointment_confirmation_message">Are you sure you want to book an appointment with</string>
+    <string name="clear_button_text">CLEAR</string>
+    <string name="all_fields_required_messages">All Fields are required</string>
+    <string name="appointments">Appointments</string>
+    <string name="appointments_history">Appointment History</string>
+    <string name="description_hint">Describe your consultation reason</string>
+    <string name="something_went_wrong_message">Something went wrong!!</string>
+    <string name="press_double_back_message">press back again!!</string>
+    <string name="Logout">Log out</string>
+    <string name="delete_account_string">Delete Account</string>
+
+</resources>

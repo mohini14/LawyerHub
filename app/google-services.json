@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1027245966369",
+    "firebase_url": "https://lawyerhub-e5f05.firebaseio.com",
+    "project_id": "lawyerhub-e5f05",
+    "storage_bucket": "lawyerhub-e5f05.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1027245966369:android:02187da3516a589a",
+        "android_client_info": {
+          "package_name": "com.lawyerhub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1027245966369-i5ms5cea8f315ldndh4ie45igp2enn43.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lawyerhub",
+            "certificate_hash": "3bd624df1b8614527dcc6058e5ceef5c32c7d73b"
+          }
+        },
+        {
+          "client_id": "1027245966369-mnovg25o27os56npr9qgi65ups90v4ki.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBr6bCEbfZty1LlYz-T0wa4HmJ336SUO8A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1027245966369-mnovg25o27os56npr9qgi65ups90v4ki.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

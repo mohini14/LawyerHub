@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1E257D</color>
+    <color name="colorPrimaryDark">#1C67CC</color>
+    <color name="colorAccent">#1B91FF</color>
+    <color name="colorPureWhite">#FFFFFF</color>
+    <color name="colorLightGray">#d3d3d3</color>
+    <color name="colorDarkGray">#5F5F64</color>
+    <color name="colorTransparent">#00FFFFFF</color>
+    <color name="backgroundGradientStartColor">#1E257D</color>
+    <color name="backgroundGradientEndColor">#1B91FF</color>
+    <color name="blackColor">#000000</color>
+    <color name="redColor">#ff0000</color>
+</resources>
+

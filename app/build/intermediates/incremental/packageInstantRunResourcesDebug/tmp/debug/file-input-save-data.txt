@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Tue Nov 06 16:16:19 IST 2018
+0.baseType=DIRECTORY
+0.base=/Users/mohini.sindhu/Documents/personal_projectsd/LawyerHub-master/app/build/intermediates/merged_assets/debug/mergeDebugAssets/out
+0.path=crashlytics-build.properties
+0.set=ASSET
+count=1

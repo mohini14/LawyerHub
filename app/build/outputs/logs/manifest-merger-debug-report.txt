@@ -1,0 +1,699 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/mohini.sindhu/Documents/personal_projectsd/LawyerHub-master/app/src/main/AndroidManifest.xml:2:1-68:12
+INJECTED from /Users/mohini.sindhu/Documents/personal_projectsd/LawyerHub-master/app/src/main/AndroidManifest.xml:2:1-68:12
+INJECTED from /Users/mohini.sindhu/Documents/personal_projectsd/LawyerHub-master/app/src/main/AndroidManifest.xml:2:1-68:12
+INJECTED from /Users/mohini.sindhu/Documents/personal_projectsd/LawyerHub-master/app/src/main/AndroidManifest.xml:2:1-68:12
+MERGED from [com.firebaseui:firebase-ui-auth:4.1.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-4.1.0.aar/001cc5936e91c9b56c800e73c3f42711/AndroidManifest.xml:2:1-114:12
+MERGED from [me.zhanghai.android.materialprogressbar:library:1.4.2] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/library-1.4.2.aar/2bc85a2638b8e9303e2dac0dff64c45a/AndroidManifest.xml:6:1-16:12
+MERGED from [com.android.support:design:27.1.1] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/727c2d1e95bbaf973099b5b93c825659/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/5f684c1db825a414d63d46acdb59f09e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/e92ce7c1f53dcfea9d64e1885fe9077a/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.firebase:firebase-auth:16.0.2] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.2.aar/1ac52b06d8985a501a2da9935875f1de/AndroidManifest.xml:17:1-38:12
+MERGED from [com.google.firebase:firebase-database:16.0.1] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-database-16.0.1.aar/112177f662a2a557d8aa8ec433e01dbd/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-core:10.2.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-core-10.2.0.aar/738c704e41a80999302cac1f94bcf07b/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-auth:15.0.1] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/play-services-auth-15.0.1.aar/8afb43110e3f340af8718cf9a706df3e/AndroidManifest.xml:17:1-39:12
+MERGED from [com.facebook.android:facebook-android-sdk:4.0.1] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.0.1.aar/a2c9e47d73ac4fb5c58bd863f2249d85/AndroidManifest.xml:21:1-30:12
+MERGED from [com.jakewharton:butterknife:8.8.1] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/butterknife-8.8.1.aar/9f292e8dd45a9e527fbcab013cd574c7/AndroidManifest.xml:2:1-7:12
+MERGED from [de.hdodenhof:circleimageview:2.2.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/circleimageview-2.2.0.aar/a1a4a839da982acde12bd13aa685e8de/AndroidManifest.xml:2:1-11:12
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/4d46184e233a52398e13ff70a1ed05d1/AndroidManifest.xml:2:1-14:12
+MERGED from [com.arasthel:asyncjob-library:1.0.3] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/asyncjob-library-1.0.3.aar/66cff9e72f09f5d5a393cbe1326fe910/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:customtabs:27.1.1] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/customtabs-27.1.1.aar/39a9508c3511d3ec97eed67da281082f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.1.1] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/edd0830e4a4e31d2e4ee3052097be96d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:exifinterface:27.1.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/exifinterface-27.1.0.aar/3a42a0e962dc362f1d02b48bebd6deee/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/d028eab0a5f5b27d68e4a8129fb54d23/AndroidManifest.xml:17:1-30:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/979a5d21c78db1bbe7264a748c3297e1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-database-collection:15.0.1] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-database-collection-15.0.1.aar/f2fa14dfccc640143a78a4ae6ec33f28/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-database-connection:16.0.1] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-16.0.1.aar/54ad57c2774a74b77a20b8905c73e7e6/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-analytics:10.2.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.2.0.aar/98aac1eba23365769ac19ee297ae88a2/AndroidManifest.xml:16:1-34:12
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-10.2.0.aar/8c6f487f6655845caaa95f755fe026f3/AndroidManifest.xml:16:1-29:12
+MERGED from [com.google.firebase:firebase-iid:10.2.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.0.aar/f73afefeb752362eb13aec5bd5e39b0f/AndroidManifest.xml:16:1-51:12
+MERGED from [com.google.android.gms:play-services-flags:15.0.1] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/play-services-flags-15.0.1.aar/d5ddc76ffdde400324a2df6cae17e9f4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-auth-interop-16.0.0.aar/c1359a3114674da7877a61ec0a1cfa8c/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:15.0.1] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-15.0.1.aar/41d57642d4bdd333cdde04fd15a25ec6/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:15.0.1] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-15.0.1.aar/af72ae1ff4a02d932d21bf09f314bd7c/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/c4fae6906f230e0c698163362aa17f47/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-common:16.0.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.0.aar/4fd1f788ebc39814877a48a766e11917/AndroidManifest.xml:2:1-16:12
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/cda034a85dcd44fff3392d862b2c3705/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/cce21eb24c27bef9d2a608bb4b41d371/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:27.1.1] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/295657d3ad358dcaec0621b09cd21d3f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/7e8e812a6cd49d9a09f7096dab938871/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/80ca723f7775b4e6b16d8f2c4a322b37/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/69524249301303252024636a3692f0a6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/675daf6ac2b66b8122e93ab0ddbfbf6d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/5d8ea0d2937d64230c0c515a115d5b88/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/21542cac749b9cb546b52344718814bc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/13de2ee8945a3ee6a502ad7369ae632e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/a25bd8ccff10e9530c112de3ddfb9623/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/8084dbd89a63c8a6ef2536c211669ebe/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/1f314f9fc41a26a4f4a06bcb0834912e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/6665a854b9f86631f33d8022a4100fb6/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/3ca03d9c0f62c61ece7146267932ac82/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/185251d2ba49971b5cd95683ba7a8ce3/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/mohini.sindhu/Documents/personal_projectsd/LawyerHub-master/app/src/main/AndroidManifest.xml:2:1-68:12
+INJECTED from /Users/mohini.sindhu/Documents/personal_projectsd/LawyerHub-master/app/src/main/AndroidManifest.xml:2:1-68:12
+INJECTED from /Users/mohini.sindhu/Documents/personal_projectsd/LawyerHub-master/app/src/main/AndroidManifest.xml:2:1-68:12
+	package
+		ADDED from /Users/mohini.sindhu/Documents/personal_projectsd/LawyerHub-master/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/mohini.sindhu/Documents/personal_projectsd/LawyerHub-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mohini.sindhu/Documents/personal_projectsd/LawyerHub-master/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/mohini.sindhu/Documents/personal_projectsd/LawyerHub-master/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mohini.sindhu/Documents/personal_projectsd/LawyerHub-master/app/src/main/AndroidManifest.xml:2:1-68:12
+		INJECTED from /Users/mohini.sindhu/Documents/personal_projectsd/LawyerHub-master/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/mohini.sindhu/Documents/personal_projectsd/LawyerHub-master/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/mohini.sindhu/Documents/personal_projectsd/LawyerHub-master/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mohini.sindhu/Documents/personal_projectsd/LawyerHub-master/app/src/main/AndroidManifest.xml:2:1-68:12
+		INJECTED from /Users/mohini.sindhu/Documents/personal_projectsd/LawyerHub-master/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/mohini.sindhu/Documents/personal_projectsd/LawyerHub-master/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/mohini.sindhu/Documents/personal_projectsd/LawyerHub-master/app/src/main/AndroidManifest.xml:6:5-67
+MERGED from [com.firebaseui:firebase-ui-auth:4.1.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-4.1.0.aar/001cc5936e91c9b56c800e73c3f42711/AndroidManifest.xml:13:5-67
+MERGED from [com.firebaseui:firebase-ui-auth:4.1.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-4.1.0.aar/001cc5936e91c9b56c800e73c3f42711/AndroidManifest.xml:13:5-67
+MERGED from [com.google.firebase:firebase-database-connection:16.0.1] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-16.0.1.aar/54ad57c2774a74b77a20b8905c73e7e6/AndroidManifest.xml:8:5-67
+MERGED from [com.google.firebase:firebase-database-connection:16.0.1] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-16.0.1.aar/54ad57c2774a74b77a20b8905c73e7e6/AndroidManifest.xml:8:5-67
+MERGED from [com.google.firebase:firebase-analytics:10.2.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.2.0.aar/98aac1eba23365769ac19ee297ae88a2/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics:10.2.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.2.0.aar/98aac1eba23365769ac19ee297ae88a2/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-10.2.0.aar/8c6f487f6655845caaa95f755fe026f3/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-10.2.0.aar/8c6f487f6655845caaa95f755fe026f3/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:10.2.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.0.aar/f73afefeb752362eb13aec5bd5e39b0f/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:10.2.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.0.aar/f73afefeb752362eb13aec5bd5e39b0f/AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from /Users/mohini.sindhu/Documents/personal_projectsd/LawyerHub-master/app/src/main/AndroidManifest.xml:6:22-64
+application
+ADDED from /Users/mohini.sindhu/Documents/personal_projectsd/LawyerHub-master/app/src/main/AndroidManifest.xml:8:5-64:19
+MERGED from [com.firebaseui:firebase-ui-auth:4.1.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-4.1.0.aar/001cc5936e91c9b56c800e73c3f42711/AndroidManifest.xml:15:5-112:19
+MERGED from [com.firebaseui:firebase-ui-auth:4.1.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-4.1.0.aar/001cc5936e91c9b56c800e73c3f42711/AndroidManifest.xml:15:5-112:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/e92ce7c1f53dcfea9d64e1885fe9077a/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/e92ce7c1f53dcfea9d64e1885fe9077a/AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-auth:16.0.2] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.2.aar/1ac52b06d8985a501a2da9935875f1de/AndroidManifest.xml:22:5-36:19
+MERGED from [com.google.firebase:firebase-auth:16.0.2] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.2.aar/1ac52b06d8985a501a2da9935875f1de/AndroidManifest.xml:22:5-36:19
+MERGED from [com.google.firebase:firebase-core:10.2.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-core-10.2.0.aar/738c704e41a80999302cac1f94bcf07b/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-core:10.2.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-core-10.2.0.aar/738c704e41a80999302cac1f94bcf07b/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-auth:15.0.1] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/play-services-auth-15.0.1.aar/8afb43110e3f340af8718cf9a706df3e/AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-auth:15.0.1] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/play-services-auth-15.0.1.aar/8afb43110e3f340af8718cf9a706df3e/AndroidManifest.xml:22:5-37:19
+MERGED from [com.facebook.android:facebook-android-sdk:4.0.1] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.0.1.aar/a2c9e47d73ac4fb5c58bd863f2249d85/AndroidManifest.xml:28:5-20
+MERGED from [com.facebook.android:facebook-android-sdk:4.0.1] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.0.1.aar/a2c9e47d73ac4fb5c58bd863f2249d85/AndroidManifest.xml:28:5-20
+MERGED from [de.hdodenhof:circleimageview:2.2.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/circleimageview-2.2.0.aar/a1a4a839da982acde12bd13aa685e8de/AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:2.2.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/circleimageview-2.2.0.aar/a1a4a839da982acde12bd13aa685e8de/AndroidManifest.xml:9:5-20
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/4d46184e233a52398e13ff70a1ed05d1/AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/4d46184e233a52398e13ff70a1ed05d1/AndroidManifest.xml:7:5-12:19
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/d028eab0a5f5b27d68e4a8129fb54d23/AndroidManifest.xml:22:5-28:19
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/d028eab0a5f5b27d68e4a8129fb54d23/AndroidManifest.xml:22:5-28:19
+MERGED from [com.google.firebase:firebase-analytics:10.2.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.2.0.aar/98aac1eba23365769ac19ee297ae88a2/AndroidManifest.xml:24:5-33:19
+MERGED from [com.google.firebase:firebase-analytics:10.2.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.2.0.aar/98aac1eba23365769ac19ee297ae88a2/AndroidManifest.xml:24:5-33:19
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-10.2.0.aar/8c6f487f6655845caaa95f755fe026f3/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-10.2.0.aar/8c6f487f6655845caaa95f755fe026f3/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:10.2.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.0.aar/f73afefeb752362eb13aec5bd5e39b0f/AndroidManifest.xml:28:5-50:19
+MERGED from [com.google.firebase:firebase-iid:10.2.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.0.aar/f73afefeb752362eb13aec5bd5e39b0f/AndroidManifest.xml:28:5-50:19
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-auth-interop-16.0.0.aar/c1359a3114674da7877a61ec0a1cfa8c/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-auth-interop-16.0.0.aar/c1359a3114674da7877a61ec0a1cfa8c/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/c4fae6906f230e0c698163362aa17f47/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/c4fae6906f230e0c698163362aa17f47/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-common:16.0.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.0.aar/4fd1f788ebc39814877a48a766e11917/AndroidManifest.xml:8:5-14:19
+MERGED from [com.google.firebase:firebase-common:16.0.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.0.aar/4fd1f788ebc39814877a48a766e11917/AndroidManifest.xml:8:5-14:19
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/cda034a85dcd44fff3392d862b2c3705/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/cda034a85dcd44fff3392d862b2c3705/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/cce21eb24c27bef9d2a608bb4b41d371/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/cce21eb24c27bef9d2a608bb4b41d371/AndroidManifest.xml:22:5-26:19
+	android:supportsRtl
+		ADDED from /Users/mohini.sindhu/Documents/personal_projectsd/LawyerHub-master/app/src/main/AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from /Users/mohini.sindhu/Documents/personal_projectsd/LawyerHub-master/app/src/main/AndroidManifest.xml:12:9-41
+	tools:ignore
+		ADDED from /Users/mohini.sindhu/Documents/personal_projectsd/LawyerHub-master/app/src/main/AndroidManifest.xml:16:9-55
+	android:roundIcon
+		ADDED from /Users/mohini.sindhu/Documents/personal_projectsd/LawyerHub-master/app/src/main/AndroidManifest.xml:13:9-48
+	android:icon
+		ADDED from /Users/mohini.sindhu/Documents/personal_projectsd/LawyerHub-master/app/src/main/AndroidManifest.xml:11:9-43
+	android:allowBackup
+		ADDED from /Users/mohini.sindhu/Documents/personal_projectsd/LawyerHub-master/app/src/main/AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from /Users/mohini.sindhu/Documents/personal_projectsd/LawyerHub-master/app/src/main/AndroidManifest.xml:15:9-52
+	android:name
+		ADDED from /Users/mohini.sindhu/Documents/personal_projectsd/LawyerHub-master/app/src/main/AndroidManifest.xml:10:9-45
+activity#com.lawyerhub.activities.LoginActivity
+ADDED from /Users/mohini.sindhu/Documents/personal_projectsd/LawyerHub-master/app/src/main/AndroidManifest.xml:17:9-28:20
+	android:screenOrientation
+		ADDED from /Users/mohini.sindhu/Documents/personal_projectsd/LawyerHub-master/app/src/main/AndroidManifest.xml:21:13-49
+	android:hardwareAccelerated
+		ADDED from /Users/mohini.sindhu/Documents/personal_projectsd/LawyerHub-master/app/src/main/AndroidManifest.xml:20:13-48
+	android:configChanges
+		ADDED from /Users/mohini.sindhu/Documents/personal_projectsd/LawyerHub-master/app/src/main/AndroidManifest.xml:19:13-48
+	android:theme
+		ADDED from /Users/mohini.sindhu/Documents/personal_projectsd/LawyerHub-master/app/src/main/AndroidManifest.xml:22:13-56
+	android:name
+		ADDED from /Users/mohini.sindhu/Documents/personal_projectsd/LawyerHub-master/app/src/main/AndroidManifest.xml:18:13-53
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/mohini.sindhu/Documents/personal_projectsd/LawyerHub-master/app/src/main/AndroidManifest.xml:23:13-26:29
+action#android.intent.action.MAIN
+ADDED from /Users/mohini.sindhu/Documents/personal_projectsd/LawyerHub-master/app/src/main/AndroidManifest.xml:24:17-69
+	android:name
+		ADDED from /Users/mohini.sindhu/Documents/personal_projectsd/LawyerHub-master/app/src/main/AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/mohini.sindhu/Documents/personal_projectsd/LawyerHub-master/app/src/main/AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from /Users/mohini.sindhu/Documents/personal_projectsd/LawyerHub-master/app/src/main/AndroidManifest.xml:25:27-74
+activity#com.lawyerhub.activities.mainActivity.MainActivity
+ADDED from /Users/mohini.sindhu/Documents/personal_projectsd/LawyerHub-master/app/src/main/AndroidManifest.xml:30:9-35:59
+	android:screenOrientation
+		ADDED from /Users/mohini.sindhu/Documents/personal_projectsd/LawyerHub-master/app/src/main/AndroidManifest.xml:34:13-49
+	android:hardwareAccelerated
+		ADDED from /Users/mohini.sindhu/Documents/personal_projectsd/LawyerHub-master/app/src/main/AndroidManifest.xml:33:13-47
+	android:configChanges
+		ADDED from /Users/mohini.sindhu/Documents/personal_projectsd/LawyerHub-master/app/src/main/AndroidManifest.xml:32:13-48
+	android:theme
+		ADDED from /Users/mohini.sindhu/Documents/personal_projectsd/LawyerHub-master/app/src/main/AndroidManifest.xml:35:13-56
+	android:name
+		ADDED from /Users/mohini.sindhu/Documents/personal_projectsd/LawyerHub-master/app/src/main/AndroidManifest.xml:31:13-65
+activity#com.lawyerhub.activities.EditProfileActivity
+ADDED from /Users/mohini.sindhu/Documents/personal_projectsd/LawyerHub-master/app/src/main/AndroidManifest.xml:37:9-42:59
+	android:screenOrientation
+		ADDED from /Users/mohini.sindhu/Documents/personal_projectsd/LawyerHub-master/app/src/main/AndroidManifest.xml:41:13-49
+	android:hardwareAccelerated
+		ADDED from /Users/mohini.sindhu/Documents/personal_projectsd/LawyerHub-master/app/src/main/AndroidManifest.xml:40:13-47
+	android:configChanges
+		ADDED from /Users/mohini.sindhu/Documents/personal_projectsd/LawyerHub-master/app/src/main/AndroidManifest.xml:39:13-48
+	android:theme
+		ADDED from /Users/mohini.sindhu/Documents/personal_projectsd/LawyerHub-master/app/src/main/AndroidManifest.xml:42:13-56
+	android:name
+		ADDED from /Users/mohini.sindhu/Documents/personal_projectsd/LawyerHub-master/app/src/main/AndroidManifest.xml:38:13-59
+activity#com.lawyerhub.activities.BookAppointmentActivity
+ADDED from /Users/mohini.sindhu/Documents/personal_projectsd/LawyerHub-master/app/src/main/AndroidManifest.xml:44:9-49:59
+	android:screenOrientation
+		ADDED from /Users/mohini.sindhu/Documents/personal_projectsd/LawyerHub-master/app/src/main/AndroidManifest.xml:48:13-49
+	android:hardwareAccelerated
+		ADDED from /Users/mohini.sindhu/Documents/personal_projectsd/LawyerHub-master/app/src/main/AndroidManifest.xml:47:13-47
+	android:configChanges
+		ADDED from /Users/mohini.sindhu/Documents/personal_projectsd/LawyerHub-master/app/src/main/AndroidManifest.xml:46:13-48
+	android:theme
+		ADDED from /Users/mohini.sindhu/Documents/personal_projectsd/LawyerHub-master/app/src/main/AndroidManifest.xml:49:13-56
+	android:name
+		ADDED from /Users/mohini.sindhu/Documents/personal_projectsd/LawyerHub-master/app/src/main/AndroidManifest.xml:45:13-63
+activity#com.lawyerhub.activities.LawyerDetailsActivity
+ADDED from /Users/mohini.sindhu/Documents/personal_projectsd/LawyerHub-master/app/src/main/AndroidManifest.xml:51:9-56:59
+	android:screenOrientation
+		ADDED from /Users/mohini.sindhu/Documents/personal_projectsd/LawyerHub-master/app/src/main/AndroidManifest.xml:55:13-49
+	android:hardwareAccelerated
+		ADDED from /Users/mohini.sindhu/Documents/personal_projectsd/LawyerHub-master/app/src/main/AndroidManifest.xml:54:13-47
+	android:configChanges
+		ADDED from /Users/mohini.sindhu/Documents/personal_projectsd/LawyerHub-master/app/src/main/AndroidManifest.xml:53:13-48
+	android:theme
+		ADDED from /Users/mohini.sindhu/Documents/personal_projectsd/LawyerHub-master/app/src/main/AndroidManifest.xml:56:13-56
+	android:name
+		ADDED from /Users/mohini.sindhu/Documents/personal_projectsd/LawyerHub-master/app/src/main/AndroidManifest.xml:52:13-61
+activity#com.lawyerhub.activities.appointments.AppointmentActivity
+ADDED from /Users/mohini.sindhu/Documents/personal_projectsd/LawyerHub-master/app/src/main/AndroidManifest.xml:58:9-63:59
+	android:screenOrientation
+		ADDED from /Users/mohini.sindhu/Documents/personal_projectsd/LawyerHub-master/app/src/main/AndroidManifest.xml:62:13-49
+	android:hardwareAccelerated
+		ADDED from /Users/mohini.sindhu/Documents/personal_projectsd/LawyerHub-master/app/src/main/AndroidManifest.xml:61:13-47
+	android:configChanges
+		ADDED from /Users/mohini.sindhu/Documents/personal_projectsd/LawyerHub-master/app/src/main/AndroidManifest.xml:60:13-48
+	android:theme
+		ADDED from /Users/mohini.sindhu/Documents/personal_projectsd/LawyerHub-master/app/src/main/AndroidManifest.xml:63:13-56
+	android:name
+		ADDED from /Users/mohini.sindhu/Documents/personal_projectsd/LawyerHub-master/app/src/main/AndroidManifest.xml:59:13-72
+uses-sdk
+INJECTED from /Users/mohini.sindhu/Documents/personal_projectsd/LawyerHub-master/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/mohini.sindhu/Documents/personal_projectsd/LawyerHub-master/app/src/main/AndroidManifest.xml
+INJECTED from /Users/mohini.sindhu/Documents/personal_projectsd/LawyerHub-master/app/src/main/AndroidManifest.xml
+MERGED from [com.firebaseui:firebase-ui-auth:4.1.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-4.1.0.aar/001cc5936e91c9b56c800e73c3f42711/AndroidManifest.xml:8:5-10:41
+MERGED from [com.firebaseui:firebase-ui-auth:4.1.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-4.1.0.aar/001cc5936e91c9b56c800e73c3f42711/AndroidManifest.xml:8:5-10:41
+MERGED from [me.zhanghai.android.materialprogressbar:library:1.4.2] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/library-1.4.2.aar/2bc85a2638b8e9303e2dac0dff64c45a/AndroidManifest.xml:12:5-14:41
+MERGED from [me.zhanghai.android.materialprogressbar:library:1.4.2] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/library-1.4.2.aar/2bc85a2638b8e9303e2dac0dff64c45a/AndroidManifest.xml:12:5-14:41
+MERGED from [com.android.support:design:27.1.1] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/727c2d1e95bbaf973099b5b93c825659/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/727c2d1e95bbaf973099b5b93c825659/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/5f684c1db825a414d63d46acdb59f09e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/5f684c1db825a414d63d46acdb59f09e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/e92ce7c1f53dcfea9d64e1885fe9077a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/e92ce7c1f53dcfea9d64e1885fe9077a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-auth:16.0.2] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.2.aar/1ac52b06d8985a501a2da9935875f1de/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth:16.0.2] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.2.aar/1ac52b06d8985a501a2da9935875f1de/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database:16.0.1] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-database-16.0.1.aar/112177f662a2a557d8aa8ec433e01dbd/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database:16.0.1] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-database-16.0.1.aar/112177f662a2a557d8aa8ec433e01dbd/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-core:10.2.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-core-10.2.0.aar/738c704e41a80999302cac1f94bcf07b/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-core:10.2.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-core-10.2.0.aar/738c704e41a80999302cac1f94bcf07b/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-auth:15.0.1] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/play-services-auth-15.0.1.aar/8afb43110e3f340af8718cf9a706df3e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:15.0.1] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/play-services-auth-15.0.1.aar/8afb43110e3f340af8718cf9a706df3e/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.android:facebook-android-sdk:4.0.1] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.0.1.aar/a2c9e47d73ac4fb5c58bd863f2249d85/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-android-sdk:4.0.1] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.0.1.aar/a2c9e47d73ac4fb5c58bd863f2249d85/AndroidManifest.xml:24:5-26:41
+MERGED from [com.jakewharton:butterknife:8.8.1] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/butterknife-8.8.1.aar/9f292e8dd45a9e527fbcab013cd574c7/AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton:butterknife:8.8.1] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/butterknife-8.8.1.aar/9f292e8dd45a9e527fbcab013cd574c7/AndroidManifest.xml:5:5-43
+MERGED from [de.hdodenhof:circleimageview:2.2.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/circleimageview-2.2.0.aar/a1a4a839da982acde12bd13aa685e8de/AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:2.2.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/circleimageview-2.2.0.aar/a1a4a839da982acde12bd13aa685e8de/AndroidManifest.xml:5:5-7:41
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/4d46184e233a52398e13ff70a1ed05d1/AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/4d46184e233a52398e13ff70a1ed05d1/AndroidManifest.xml:5:5-44
+MERGED from [com.arasthel:asyncjob-library:1.0.3] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/asyncjob-library-1.0.3.aar/66cff9e72f09f5d5a393cbe1326fe910/AndroidManifest.xml:7:5-9:41
+MERGED from [com.arasthel:asyncjob-library:1.0.3] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/asyncjob-library-1.0.3.aar/66cff9e72f09f5d5a393cbe1326fe910/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:customtabs:27.1.1] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/customtabs-27.1.1.aar/39a9508c3511d3ec97eed67da281082f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:27.1.1] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/customtabs-27.1.1.aar/39a9508c3511d3ec97eed67da281082f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/edd0830e4a4e31d2e4ee3052097be96d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/edd0830e4a4e31d2e4ee3052097be96d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/exifinterface-27.1.0.aar/3a42a0e962dc362f1d02b48bebd6deee/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/exifinterface-27.1.0.aar/3a42a0e962dc362f1d02b48bebd6deee/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/d028eab0a5f5b27d68e4a8129fb54d23/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/d028eab0a5f5b27d68e4a8129fb54d23/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/979a5d21c78db1bbe7264a748c3297e1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/979a5d21c78db1bbe7264a748c3297e1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-collection:15.0.1] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-database-collection-15.0.1.aar/f2fa14dfccc640143a78a4ae6ec33f28/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database-collection:15.0.1] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-database-collection-15.0.1.aar/f2fa14dfccc640143a78a4ae6ec33f28/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database-connection:16.0.1] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-16.0.1.aar/54ad57c2774a74b77a20b8905c73e7e6/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database-connection:16.0.1] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-16.0.1.aar/54ad57c2774a74b77a20b8905c73e7e6/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-analytics:10.2.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.2.0.aar/98aac1eba23365769ac19ee297ae88a2/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics:10.2.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.2.0.aar/98aac1eba23365769ac19ee297ae88a2/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-10.2.0.aar/8c6f487f6655845caaa95f755fe026f3/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-10.2.0.aar/8c6f487f6655845caaa95f755fe026f3/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:10.2.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.0.aar/f73afefeb752362eb13aec5bd5e39b0f/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:10.2.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.0.aar/f73afefeb752362eb13aec5bd5e39b0f/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-flags:15.0.1] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/play-services-flags-15.0.1.aar/d5ddc76ffdde400324a2df6cae17e9f4/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:15.0.1] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/play-services-flags-15.0.1.aar/d5ddc76ffdde400324a2df6cae17e9f4/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-auth-interop-16.0.0.aar/c1359a3114674da7877a61ec0a1cfa8c/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-auth-interop-16.0.0.aar/c1359a3114674da7877a61ec0a1cfa8c/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:15.0.1] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-15.0.1.aar/41d57642d4bdd333cdde04fd15a25ec6/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:15.0.1] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-15.0.1.aar/41d57642d4bdd333cdde04fd15a25ec6/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:15.0.1] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-15.0.1.aar/af72ae1ff4a02d932d21bf09f314bd7c/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:15.0.1] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-15.0.1.aar/af72ae1ff4a02d932d21bf09f314bd7c/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/c4fae6906f230e0c698163362aa17f47/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/c4fae6906f230e0c698163362aa17f47/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:16.0.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.0.aar/4fd1f788ebc39814877a48a766e11917/AndroidManifest.xml:5:5-6:37
+MERGED from [com.google.firebase:firebase-common:16.0.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.0.aar/4fd1f788ebc39814877a48a766e11917/AndroidManifest.xml:5:5-6:37
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/cda034a85dcd44fff3392d862b2c3705/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/cda034a85dcd44fff3392d862b2c3705/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/cce21eb24c27bef9d2a608bb4b41d371/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/cce21eb24c27bef9d2a608bb4b41d371/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/295657d3ad358dcaec0621b09cd21d3f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/295657d3ad358dcaec0621b09cd21d3f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/7e8e812a6cd49d9a09f7096dab938871/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/7e8e812a6cd49d9a09f7096dab938871/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/80ca723f7775b4e6b16d8f2c4a322b37/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/80ca723f7775b4e6b16d8f2c4a322b37/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/69524249301303252024636a3692f0a6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/69524249301303252024636a3692f0a6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/675daf6ac2b66b8122e93ab0ddbfbf6d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/675daf6ac2b66b8122e93ab0ddbfbf6d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/5d8ea0d2937d64230c0c515a115d5b88/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/5d8ea0d2937d64230c0c515a115d5b88/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/21542cac749b9cb546b52344718814bc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/21542cac749b9cb546b52344718814bc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/13de2ee8945a3ee6a502ad7369ae632e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/13de2ee8945a3ee6a502ad7369ae632e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/a25bd8ccff10e9530c112de3ddfb9623/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/a25bd8ccff10e9530c112de3ddfb9623/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/8084dbd89a63c8a6ef2536c211669ebe/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/8084dbd89a63c8a6ef2536c211669ebe/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/1f314f9fc41a26a4f4a06bcb0834912e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/1f314f9fc41a26a4f4a06bcb0834912e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/6665a854b9f86631f33d8022a4100fb6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/6665a854b9f86631f33d8022a4100fb6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/3ca03d9c0f62c61ece7146267932ac82/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/3ca03d9c0f62c61ece7146267932ac82/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/185251d2ba49971b5cd95683ba7a8ce3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/185251d2ba49971b5cd95683ba7a8ce3/AndroidManifest.xml:20:5-44
+INJECTED from /Users/mohini.sindhu/Documents/personal_projectsd/LawyerHub-master/app/src/main/AndroidManifest.xml
+INJECTED from /Users/mohini.sindhu/Documents/personal_projectsd/LawyerHub-master/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/mohini.sindhu/Documents/personal_projectsd/LawyerHub-master/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mohini.sindhu/Documents/personal_projectsd/LawyerHub-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mohini.sindhu/Documents/personal_projectsd/LawyerHub-master/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/mohini.sindhu/Documents/personal_projectsd/LawyerHub-master/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mohini.sindhu/Documents/personal_projectsd/LawyerHub-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mohini.sindhu/Documents/personal_projectsd/LawyerHub-master/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-4.1.0.aar/001cc5936e91c9b56c800e73c3f42711/AndroidManifest.xml:12:5-79
+MERGED from [com.google.firebase:firebase-analytics:10.2.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.2.0.aar/98aac1eba23365769ac19ee297ae88a2/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics:10.2.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.2.0.aar/98aac1eba23365769ac19ee297ae88a2/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-10.2.0.aar/8c6f487f6655845caaa95f755fe026f3/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-10.2.0.aar/8c6f487f6655845caaa95f755fe026f3/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:10.2.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.0.aar/f73afefeb752362eb13aec5bd5e39b0f/AndroidManifest.xml:19:5-78
+MERGED from [com.google.firebase:firebase-iid:10.2.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.0.aar/f73afefeb752362eb13aec5bd5e39b0f/AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-4.1.0.aar/001cc5936e91c9b56c800e73c3f42711/AndroidManifest.xml:12:22-76
+meta-data#com.google.android.gms.version
+ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-4.1.0.aar/001cc5936e91c9b56c800e73c3f42711/AndroidManifest.xml:16:9-18:69
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/cce21eb24c27bef9d2a608bb4b41d371/AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/cce21eb24c27bef9d2a608bb4b41d371/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-4.1.0.aar/001cc5936e91c9b56c800e73c3f42711/AndroidManifest.xml:18:13-66
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-4.1.0.aar/001cc5936e91c9b56c800e73c3f42711/AndroidManifest.xml:17:13-58
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-4.1.0.aar/001cc5936e91c9b56c800e73c3f42711/AndroidManifest.xml:19:9-21:63
+	android:value
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-4.1.0.aar/001cc5936e91c9b56c800e73c3f42711/AndroidManifest.xml:21:13-60
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-4.1.0.aar/001cc5936e91c9b56c800e73c3f42711/AndroidManifest.xml:20:13-58
+activity#com.firebase.ui.auth.KickoffActivity
+ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-4.1.0.aar/001cc5936e91c9b56c800e73c3f42711/AndroidManifest.xml:23:9-27:61
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-4.1.0.aar/001cc5936e91c9b56c800e73c3f42711/AndroidManifest.xml:26:13-29
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-4.1.0.aar/001cc5936e91c9b56c800e73c3f42711/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-4.1.0.aar/001cc5936e91c9b56c800e73c3f42711/AndroidManifest.xml:27:13-58
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-4.1.0.aar/001cc5936e91c9b56c800e73c3f42711/AndroidManifest.xml:24:13-64
+activity#com.firebase.ui.auth.ui.idp.SingleSignInActivity
+ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-4.1.0.aar/001cc5936e91c9b56c800e73c3f42711/AndroidManifest.xml:28:9-32:61
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-4.1.0.aar/001cc5936e91c9b56c800e73c3f42711/AndroidManifest.xml:31:13-29
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-4.1.0.aar/001cc5936e91c9b56c800e73c3f42711/AndroidManifest.xml:30:13-37
+	android:theme
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-4.1.0.aar/001cc5936e91c9b56c800e73c3f42711/AndroidManifest.xml:32:13-58
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-4.1.0.aar/001cc5936e91c9b56c800e73c3f42711/AndroidManifest.xml:29:13-76
+activity#com.firebase.ui.auth.ui.credentials.CredentialSaveActivity
+ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-4.1.0.aar/001cc5936e91c9b56c800e73c3f42711/AndroidManifest.xml:33:9-37:61
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-4.1.0.aar/001cc5936e91c9b56c800e73c3f42711/AndroidManifest.xml:36:13-29
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-4.1.0.aar/001cc5936e91c9b56c800e73c3f42711/AndroidManifest.xml:35:13-37
+	android:theme
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-4.1.0.aar/001cc5936e91c9b56c800e73c3f42711/AndroidManifest.xml:37:13-58
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-4.1.0.aar/001cc5936e91c9b56c800e73c3f42711/AndroidManifest.xml:34:13-86
+activity#com.firebase.ui.auth.ui.provider.GitHubLoginActivity
+ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-4.1.0.aar/001cc5936e91c9b56c800e73c3f42711/AndroidManifest.xml:38:9-58:20
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-4.1.0.aar/001cc5936e91c9b56c800e73c3f42711/AndroidManifest.xml:41:13-29
+	android:launchMode
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-4.1.0.aar/001cc5936e91c9b56c800e73c3f42711/AndroidManifest.xml:42:13-43
+	android:configChanges
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-4.1.0.aar/001cc5936e91c9b56c800e73c3f42711/AndroidManifest.xml:40:13-96
+	android:theme
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-4.1.0.aar/001cc5936e91c9b56c800e73c3f42711/AndroidManifest.xml:43:13-58
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-4.1.0.aar/001cc5936e91c9b56c800e73c3f42711/AndroidManifest.xml:39:13-80
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:@string/firebase_web_host+data:path:/__/auth/handler+data:scheme:https
+ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-4.1.0.aar/001cc5936e91c9b56c800e73c3f42711/AndroidManifest.xml:44:13-57:29
+	tools:ignore
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-4.1.0.aar/001cc5936e91c9b56c800e73c3f42711/AndroidManifest.xml:46:17-47
+	android:autoVerify
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-4.1.0.aar/001cc5936e91c9b56c800e73c3f42711/AndroidManifest.xml:45:17-42
+action#android.intent.action.VIEW
+ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-4.1.0.aar/001cc5936e91c9b56c800e73c3f42711/AndroidManifest.xml:47:17-69
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-4.1.0.aar/001cc5936e91c9b56c800e73c3f42711/AndroidManifest.xml:47:25-66
+category#android.intent.category.DEFAULT
+ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-4.1.0.aar/001cc5936e91c9b56c800e73c3f42711/AndroidManifest.xml:49:17-76
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-4.1.0.aar/001cc5936e91c9b56c800e73c3f42711/AndroidManifest.xml:49:27-73
+category#android.intent.category.BROWSABLE
+ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-4.1.0.aar/001cc5936e91c9b56c800e73c3f42711/AndroidManifest.xml:50:17-78
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-4.1.0.aar/001cc5936e91c9b56c800e73c3f42711/AndroidManifest.xml:50:27-75
+data
+ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-4.1.0.aar/001cc5936e91c9b56c800e73c3f42711/AndroidManifest.xml:52:17-56:64
+	android:path
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-4.1.0.aar/001cc5936e91c9b56c800e73c3f42711/AndroidManifest.xml:54:21-52
+	android:host
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-4.1.0.aar/001cc5936e91c9b56c800e73c3f42711/AndroidManifest.xml:53:21-61
+	android:scheme
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-4.1.0.aar/001cc5936e91c9b56c800e73c3f42711/AndroidManifest.xml:55:21-43
+	tools:ignore
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-4.1.0.aar/001cc5936e91c9b56c800e73c3f42711/AndroidManifest.xml:56:21-61
+activity#com.firebase.ui.auth.ui.email.RecoverPasswordActivity
+ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-4.1.0.aar/001cc5936e91c9b56c800e73c3f42711/AndroidManifest.xml:59:9-63:58
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-4.1.0.aar/001cc5936e91c9b56c800e73c3f42711/AndroidManifest.xml:62:13-72
+	android:windowSoftInputMode
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-4.1.0.aar/001cc5936e91c9b56c800e73c3f42711/AndroidManifest.xml:63:13-55
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-4.1.0.aar/001cc5936e91c9b56c800e73c3f42711/AndroidManifest.xml:61:13-37
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-4.1.0.aar/001cc5936e91c9b56c800e73c3f42711/AndroidManifest.xml:60:13-81
+activity#com.firebase.ui.auth.ui.email.EmailActivity
+ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-4.1.0.aar/001cc5936e91c9b56c800e73c3f42711/AndroidManifest.xml:64:9-68:58
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-4.1.0.aar/001cc5936e91c9b56c800e73c3f42711/AndroidManifest.xml:67:13-56
+	android:windowSoftInputMode
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-4.1.0.aar/001cc5936e91c9b56c800e73c3f42711/AndroidManifest.xml:68:13-55
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-4.1.0.aar/001cc5936e91c9b56c800e73c3f42711/AndroidManifest.xml:66:13-37
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-4.1.0.aar/001cc5936e91c9b56c800e73c3f42711/AndroidManifest.xml:65:13-71
+activity#com.firebase.ui.auth.ui.phone.PhoneActivity
+ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-4.1.0.aar/001cc5936e91c9b56c800e73c3f42711/AndroidManifest.xml:69:9-73:77
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-4.1.0.aar/001cc5936e91c9b56c800e73c3f42711/AndroidManifest.xml:72:13-66
+	android:windowSoftInputMode
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-4.1.0.aar/001cc5936e91c9b56c800e73c3f42711/AndroidManifest.xml:73:13-74
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-4.1.0.aar/001cc5936e91c9b56c800e73c3f42711/AndroidManifest.xml:71:13-37
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-4.1.0.aar/001cc5936e91c9b56c800e73c3f42711/AndroidManifest.xml:70:13-71
+activity#com.firebase.ui.auth.ui.idp.WelcomeBackIdpPrompt
+ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-4.1.0.aar/001cc5936e91c9b56c800e73c3f42711/AndroidManifest.xml:74:9-78:58
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-4.1.0.aar/001cc5936e91c9b56c800e73c3f42711/AndroidManifest.xml:77:13-70
+	android:windowSoftInputMode
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-4.1.0.aar/001cc5936e91c9b56c800e73c3f42711/AndroidManifest.xml:78:13-55
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-4.1.0.aar/001cc5936e91c9b56c800e73c3f42711/AndroidManifest.xml:76:13-37
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-4.1.0.aar/001cc5936e91c9b56c800e73c3f42711/AndroidManifest.xml:75:13-76
+activity#com.firebase.ui.auth.ui.email.WelcomeBackPasswordPrompt
+ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-4.1.0.aar/001cc5936e91c9b56c800e73c3f42711/AndroidManifest.xml:79:9-83:58
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-4.1.0.aar/001cc5936e91c9b56c800e73c3f42711/AndroidManifest.xml:82:13-75
+	android:windowSoftInputMode
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-4.1.0.aar/001cc5936e91c9b56c800e73c3f42711/AndroidManifest.xml:83:13-55
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-4.1.0.aar/001cc5936e91c9b56c800e73c3f42711/AndroidManifest.xml:81:13-37
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-4.1.0.aar/001cc5936e91c9b56c800e73c3f42711/AndroidManifest.xml:80:13-83
+activity#com.firebase.ui.auth.ui.idp.AuthMethodPickerActivity
+ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-4.1.0.aar/001cc5936e91c9b56c800e73c3f42711/AndroidManifest.xml:84:9-87:65
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-4.1.0.aar/001cc5936e91c9b56c800e73c3f42711/AndroidManifest.xml:87:13-62
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-4.1.0.aar/001cc5936e91c9b56c800e73c3f42711/AndroidManifest.xml:86:13-37
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-4.1.0.aar/001cc5936e91c9b56c800e73c3f42711/AndroidManifest.xml:85:13-80
+activity#com.facebook.FacebookActivity
+ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-4.1.0.aar/001cc5936e91c9b56c800e73c3f42711/AndroidManifest.xml:88:9-92:48
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-4.1.0.aar/001cc5936e91c9b56c800e73c3f42711/AndroidManifest.xml:91:13-45
+	tools:ignore
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-4.1.0.aar/001cc5936e91c9b56c800e73c3f42711/AndroidManifest.xml:92:13-45
+	android:configChanges
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-4.1.0.aar/001cc5936e91c9b56c800e73c3f42711/AndroidManifest.xml:90:13-96
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-4.1.0.aar/001cc5936e91c9b56c800e73c3f42711/AndroidManifest.xml:89:13-57
+activity#com.facebook.CustomTabActivity
+ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-4.1.0.aar/001cc5936e91c9b56c800e73c3f42711/AndroidManifest.xml:93:9-105:20
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-4.1.0.aar/001cc5936e91c9b56c800e73c3f42711/AndroidManifest.xml:95:13-36
+	tools:ignore
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-4.1.0.aar/001cc5936e91c9b56c800e73c3f42711/AndroidManifest.xml:96:13-45
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-4.1.0.aar/001cc5936e91c9b56c800e73c3f42711/AndroidManifest.xml:94:13-58
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:@string/facebook_login_protocol_scheme
+ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-4.1.0.aar/001cc5936e91c9b56c800e73c3f42711/AndroidManifest.xml:97:13-104:29
+provider#com.firebase.ui.auth.data.client.AuthUiInitProvider
+ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-4.1.0.aar/001cc5936e91c9b56c800e73c3f42711/AndroidManifest.xml:107:9-111:38
+	android:authorities
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-4.1.0.aar/001cc5936e91c9b56c800e73c3f42711/AndroidManifest.xml:109:13-70
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-4.1.0.aar/001cc5936e91c9b56c800e73c3f42711/AndroidManifest.xml:110:13-37
+	android:initOrder
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-4.1.0.aar/001cc5936e91c9b56c800e73c3f42711/AndroidManifest.xml:111:13-35
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:4.1.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-4.1.0.aar/001cc5936e91c9b56c800e73c3f42711/AndroidManifest.xml:108:13-79
+activity#com.google.firebase.auth.internal.FederatedSignInActivity
+ADDED from [com.google.firebase:firebase-auth:16.0.2] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.2.aar/1ac52b06d8985a501a2da9935875f1de/AndroidManifest.xml:23:9-29:75
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:16.0.2] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.2.aar/1ac52b06d8985a501a2da9935875f1de/AndroidManifest.xml:25:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:16.0.2] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.2.aar/1ac52b06d8985a501a2da9935875f1de/AndroidManifest.xml:27:13-48
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:16.0.2] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.2.aar/1ac52b06d8985a501a2da9935875f1de/AndroidManifest.xml:26:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-auth:16.0.2] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.2.aar/1ac52b06d8985a501a2da9935875f1de/AndroidManifest.xml:28:13-102
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:16.0.2] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.2.aar/1ac52b06d8985a501a2da9935875f1de/AndroidManifest.xml:29:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.0.2] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.2.aar/1ac52b06d8985a501a2da9935875f1de/AndroidManifest.xml:24:13-85
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-auth:16.0.2] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.2.aar/1ac52b06d8985a501a2da9935875f1de/AndroidManifest.xml:31:9-35:19
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.0.2] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.2.aar/1ac52b06d8985a501a2da9935875f1de/AndroidManifest.xml:31:18-89
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:16.0.2] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.2.aar/1ac52b06d8985a501a2da9935875f1de/AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:16.0.2] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.2.aar/1ac52b06d8985a501a2da9935875f1de/AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.0.2] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.2.aar/1ac52b06d8985a501a2da9935875f1de/AndroidManifest.xml:33:17-109
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:15.0.1] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/play-services-auth-15.0.1.aar/8afb43110e3f340af8718cf9a706df3e/AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:15.0.1] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/play-services-auth-15.0.1.aar/8afb43110e3f340af8718cf9a706df3e/AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:15.0.1] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/play-services-auth-15.0.1.aar/8afb43110e3f340af8718cf9a706df3e/AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:15.0.1] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/play-services-auth-15.0.1.aar/8afb43110e3f340af8718cf9a706df3e/AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:15.0.1] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/play-services-auth-15.0.1.aar/8afb43110e3f340af8718cf9a706df3e/AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:15.0.1] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/play-services-auth-15.0.1.aar/8afb43110e3f340af8718cf9a706df3e/AndroidManifest.xml:33:9-36:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:15.0.1] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/play-services-auth-15.0.1.aar/8afb43110e3f340af8718cf9a706df3e/AndroidManifest.xml:35:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:15.0.1] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/play-services-auth-15.0.1.aar/8afb43110e3f340af8718cf9a706df3e/AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:15.0.1] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/play-services-auth-15.0.1.aar/8afb43110e3f340af8718cf9a706df3e/AndroidManifest.xml:34:13-89
+provider#com.squareup.picasso.PicassoProvider
+ADDED from [com.squareup.picasso:picasso:2.71828] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/4d46184e233a52398e13ff70a1ed05d1/AndroidManifest.xml:8:9-11:40
+	android:authorities
+		ADDED from [com.squareup.picasso:picasso:2.71828] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/4d46184e233a52398e13ff70a1ed05d1/AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.squareup.picasso:picasso:2.71828] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/4d46184e233a52398e13ff70a1ed05d1/AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [com.squareup.picasso:picasso:2.71828] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/4d46184e233a52398e13ff70a1ed05d1/AndroidManifest.xml:9:13-64
+provider#android.arch.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [android.arch.lifecycle:extensions:1.1.1] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/d028eab0a5f5b27d68e4a8129fb54d23/AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/d028eab0a5f5b27d68e4a8129fb54d23/AndroidManifest.xml:25:13-68
+	android:multiprocess
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/d028eab0a5f5b27d68e4a8129fb54d23/AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/d028eab0a5f5b27d68e4a8129fb54d23/AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/d028eab0a5f5b27d68e4a8129fb54d23/AndroidManifest.xml:24:13-83
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-analytics:10.2.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.2.0.aar/98aac1eba23365769ac19ee297ae88a2/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-10.2.0.aar/8c6f487f6655845caaa95f755fe026f3/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-10.2.0.aar/8c6f487f6655845caaa95f755fe026f3/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:10.2.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.0.aar/f73afefeb752362eb13aec5bd5e39b0f/AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-iid:10.2.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.0.aar/f73afefeb752362eb13aec5bd5e39b0f/AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.2.0.aar/98aac1eba23365769ac19ee297ae88a2/AndroidManifest.xml:22:22-65
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:10.2.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.2.0.aar/98aac1eba23365769ac19ee297ae88a2/AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-10.2.0.aar/8c6f487f6655845caaa95f755fe026f3/AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-10.2.0.aar/8c6f487f6655845caaa95f755fe026f3/AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.2.0.aar/98aac1eba23365769ac19ee297ae88a2/AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.2.0.aar/98aac1eba23365769ac19ee297ae88a2/AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.2.0.aar/98aac1eba23365769ac19ee297ae88a2/AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:10.2.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.2.0.aar/98aac1eba23365769ac19ee297ae88a2/AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.2.0.aar/98aac1eba23365769ac19ee297ae88a2/AndroidManifest.xml:27:162-184
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.2.0.aar/98aac1eba23365769ac19ee297ae88a2/AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.2.0.aar/98aac1eba23365769ac19ee297ae88a2/AndroidManifest.xml:27:17-104
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:10.2.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.2.0.aar/98aac1eba23365769ac19ee297ae88a2/AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:10.2.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.2.0.aar/98aac1eba23365769ac19ee297ae88a2/AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.2.0.aar/98aac1eba23365769ac19ee297ae88a2/AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:10.2.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.2.0.aar/98aac1eba23365769ac19ee297ae88a2/AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-10.2.0.aar/8c6f487f6655845caaa95f755fe026f3/AndroidManifest.xml:27:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-10.2.0.aar/8c6f487f6655845caaa95f755fe026f3/AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.2.0.aar/98aac1eba23365769ac19ee297ae88a2/AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.2.0.aar/98aac1eba23365769ac19ee297ae88a2/AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-analytics-10.2.0.aar/98aac1eba23365769ac19ee297ae88a2/AndroidManifest.xml:32:16-87
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.0.aar/f73afefeb752362eb13aec5bd5e39b0f/AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.0.aar/f73afefeb752362eb13aec5bd5e39b0f/AndroidManifest.xml:22:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.0.aar/f73afefeb752362eb13aec5bd5e39b0f/AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.0.aar/f73afefeb752362eb13aec5bd5e39b0f/AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.0.aar/f73afefeb752362eb13aec5bd5e39b0f/AndroidManifest.xml:24:17-71
+permission#com.lawyerhub.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.0.aar/f73afefeb752362eb13aec5bd5e39b0f/AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.0.aar/f73afefeb752362eb13aec5bd5e39b0f/AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.0.aar/f73afefeb752362eb13aec5bd5e39b0f/AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.0.aar/f73afefeb752362eb13aec5bd5e39b0f/AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.0.aar/f73afefeb752362eb13aec5bd5e39b0f/AndroidManifest.xml:26:22-76
+uses-permission#com.lawyerhub.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.0.aar/f73afefeb752362eb13aec5bd5e39b0f/AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.0.aar/f73afefeb752362eb13aec5bd5e39b0f/AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.0.aar/f73afefeb752362eb13aec5bd5e39b0f/AndroidManifest.xml:30:9-36:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.0.aar/f73afefeb752362eb13aec5bd5e39b0f/AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.0.aar/f73afefeb752362eb13aec5bd5e39b0f/AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.0.aar/f73afefeb752362eb13aec5bd5e39b0f/AndroidManifest.xml:30:19-84
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+action:name:com.google.android.c2dm.intent.REGISTRATION+category:name:${applicationId}
+ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.0.aar/f73afefeb752362eb13aec5bd5e39b0f/AndroidManifest.xml:31:13-35:29
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+action:name:com.google.android.c2dm.intent.REGISTRATION+category:name:com.lawyerhub
+ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.0.aar/f73afefeb752362eb13aec5bd5e39b0f/AndroidManifest.xml:31:13-35:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.0.aar/f73afefeb752362eb13aec5bd5e39b0f/AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.0.aar/f73afefeb752362eb13aec5bd5e39b0f/AndroidManifest.xml:32:25-78
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.0.aar/f73afefeb752362eb13aec5bd5e39b0f/AndroidManifest.xml:33:17-85
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.0.aar/f73afefeb752362eb13aec5bd5e39b0f/AndroidManifest.xml:33:25-83
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.0.aar/f73afefeb752362eb13aec5bd5e39b0f/AndroidManifest.xml:34:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.0.aar/f73afefeb752362eb13aec5bd5e39b0f/AndroidManifest.xml:34:27-58
+category#com.lawyerhub
+ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.0.aar/f73afefeb752362eb13aec5bd5e39b0f/AndroidManifest.xml:34:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.0.aar/f73afefeb752362eb13aec5bd5e39b0f/AndroidManifest.xml:34:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.0.aar/f73afefeb752362eb13aec5bd5e39b0f/AndroidManifest.xml:40:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.0.aar/f73afefeb752362eb13aec5bd5e39b0f/AndroidManifest.xml:40:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.0.aar/f73afefeb752362eb13aec5bd5e39b0f/AndroidManifest.xml:40:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.0.aar/f73afefeb752362eb13aec5bd5e39b0f/AndroidManifest.xml:44:9-48:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.0.aar/f73afefeb752362eb13aec5bd5e39b0f/AndroidManifest.xml:44:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.0.aar/f73afefeb752362eb13aec5bd5e39b0f/AndroidManifest.xml:44:18-82
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.0.aar/f73afefeb752362eb13aec5bd5e39b0f/AndroidManifest.xml:45:13-47:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.0.aar/f73afefeb752362eb13aec5bd5e39b0f/AndroidManifest.xml:45:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.0.aar/f73afefeb752362eb13aec5bd5e39b0f/AndroidManifest.xml:46:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-iid-10.2.0.aar/f73afefeb752362eb13aec5bd5e39b0f/AndroidManifest.xml:46:25-77
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/c4fae6906f230e0c698163362aa17f47/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/c4fae6906f230e0c698163362aa17f47/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/c4fae6906f230e0c698163362aa17f47/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/c4fae6906f230e0c698163362aa17f47/AndroidManifest.xml:24:13-79
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:16.0.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.0.aar/4fd1f788ebc39814877a48a766e11917/AndroidManifest.xml:9:9-13:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:16.0.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.0.aar/4fd1f788ebc39814877a48a766e11917/AndroidManifest.xml:11:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:16.0.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.0.aar/4fd1f788ebc39814877a48a766e11917/AndroidManifest.xml:12:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:16.0.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.0.aar/4fd1f788ebc39814877a48a766e11917/AndroidManifest.xml:13:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:16.0.0] /Users/mohini.sindhu/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.0.aar/4fd1f788ebc39814877a48a766e11917/AndroidManifest.xml:10:13-77

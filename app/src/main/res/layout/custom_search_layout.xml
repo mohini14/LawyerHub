@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <EditText
+        android:id="@+id/search_edit_Text"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:drawableStart="@drawable/search_gray"
+        android:drawablePadding="10dp"
+        android:background="@drawable/corner_radius_layout"
+        android:textColor="@color/blackColor"
+        android:textSize="14sp"
+        android:inputType="text"
+        android:singleLine="true"
+        android:imeOptions="actionDone"
+        android:textColorHint="@color/colorLightGray"
+        tools:ignore="LabelFor,TextFields" />
+</android.support.constraint.ConstraintLayout>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_profile"
+        android:title="@string/profile_string" />
+
+    <item
+        android:id="@+id/appointments"
+        android:title="@string/appointments" />
+
+    <item
+        android:id="@+id/appointment_history"
+        android:title="@string/appointments_history" />
+
+
+    <item
+        android:id="@+id/delete_account"
+        android:title="@string/delete_account_string" />
+
+    <item
+        android:id="@+id/log_out"
+        android:title="@string/Logout" />
+</menu>
